@@ -1,2 +1,0 @@
-# scour
- Main project
